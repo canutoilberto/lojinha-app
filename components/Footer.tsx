@@ -78,7 +78,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-300 text-sm">
-            &copy; 2023 L-ojinha. All rights reserved.
+            &copy; {new Date().getFullYear()} L-ojinha. All rights reserved.
           </p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <a href="#" className="text-gray-300 hover:text-white">
