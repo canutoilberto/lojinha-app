@@ -15,8 +15,8 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0">
               <Image
-                width={80}
-                height={80}
+                width={100}
+                height={100}
                 className="h-8 w-auto"
                 src="/juana.png"
                 alt="Logo"
