@@ -7,15 +7,15 @@ import Image from "next/image";
 const images = ["/bordado.jpg", "/flor.jpg", "/capivara.jpg"];
 
 const headlines = [
-  "Summer Sale: Up to 50% Off!",
-  "Discover Our New Arrivals",
-  "Limited Edition Collection",
+  "Promoção de Verão: 50% Off!",
+  "Descubra os Nossos Lançamentos",
+  "Coleção em Edição Limitada",
 ];
 
 const subheadlines = [
-  "Get ready for summer with our hottest deals",
-  "Fresh styles just in. Shop now!",
-  "Exclusive designs available for a limited time",
+  "Se preparem para as nossas promoções",
+  "Criações novinhas. Compre Agora!",
+  "Modelos exclusivos e você pode encomendar",
 ];
 
 export default function HeaderCaroussel() {

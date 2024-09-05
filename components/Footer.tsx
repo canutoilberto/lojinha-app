@@ -54,9 +54,9 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">Nos contate</h3>
             <address className="text-gray-300 text-sm not-italic">
               <p>123 E-commerce Street</p>
-              <p>City, State 12345</p>
+              <p>João Pessoa, Paraíba 12345</p>
               <p>Email: info@example.com</p>
-              <p>Phone: (123) 456-7890</p>
+              <p>Fone: (83) 9999-9999</p>
             </address>
           </div>
           <div>
