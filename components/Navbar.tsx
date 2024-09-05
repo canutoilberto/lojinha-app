@@ -56,7 +56,7 @@ export default function Navbar() {
               <div className="relative">
                 <input
                   type="text"
-                  placeholder="Search"
+                  placeholder="Pesquisar"
                   className="bg-gray-100 rounded-full py-2 px-4 pl-10 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
                 <Search className="absolute left-3 top-2.5 h-4 w-4 text-gray-400" />
