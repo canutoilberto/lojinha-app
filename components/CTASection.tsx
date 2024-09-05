@@ -31,7 +31,7 @@ export default function CTASection() {
               <div className="inline-flex rounded-md shadow">
                 <a
                   href="#subscribe"
-                  className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-blue-600 bg-white hover:bg-blue-50 transition duration-300"
+                  className="inline-flex items-center justify-center px-5 py-3 mt-2 border border-transparent text-base font-medium rounded-md text-blue-600 bg-white hover:bg-blue-50 transition duration-300"
                 >
                   Saiba mais
                   <ArrowRight
