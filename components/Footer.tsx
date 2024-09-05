@@ -9,8 +9,8 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Sobre nós</h3>
             <p className="text-gray-300 text-sm">
-              We are a leading e-commerce platform offering a wide range of
-              products to meet all your needs.
+              Somos uma plataforma de produtos artesanais que oferece uma ampla
+              gama de produtos para atender todas as suas necessidades.
             </p>
           </div>
           <div>

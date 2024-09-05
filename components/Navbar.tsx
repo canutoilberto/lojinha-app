@@ -18,7 +18,7 @@ export default function Navbar() {
                 width={80}
                 height={80}
                 className="h-8 w-auto"
-                src="/logo.png"
+                src="/juana.png"
                 alt="Logo"
               />
             </Link>
